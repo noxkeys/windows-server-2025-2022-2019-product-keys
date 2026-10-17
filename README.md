@@ -211,11 +211,11 @@ Standard is enough for most home labs that run one or two Windows Server VMs. Da
 
 More free references maintained by [Noxkeys](https://noxkeys.com/):
 
-- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
-- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
-- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors): Windows activation error codes explained
-- [How to Upgrade Windows 11 Home to Pro](https://github.com/webex9/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
-- [Microsoft Office Activation Errors and Fixes](https://github.com/webex9/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
+- [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/noxkeys/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/noxkeys/windows-11-10-activation-errors): Windows activation error codes explained
+- [How to Upgrade Windows 11 Home to Pro](https://github.com/noxkeys/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
+- [Microsoft Office Activation Errors and Fixes](https://github.com/noxkeys/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
 
 ---
 
@@ -224,8 +224,8 @@ More free references maintained by [Noxkeys](https://noxkeys.com/):
 - [Microsoft Learn – KMS client activation keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
 - [Microsoft Learn – Upgrade and conversion options for Windows Server](https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options)
 - [Microsoft Learn – Windows Server lifecycle](https://learn.microsoft.com/en-us/lifecycle/products/?terms=windows%20server)
-- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys) – companion reference for Windows editions
-- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys) – companion reference for Office
+- [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys) – companion reference for Windows editions
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/noxkeys/microsoft-office-2024-2021-2019-product-keys) – companion reference for Office
 - [Noxkeys – Genuine Windows Server licences](https://noxkeys.com/)
 
 ---
