@@ -23,6 +23,7 @@ Maintained by [Noxkeys](https://noxkeys.com/), an online store for genuine softw
 - [Common activation errors](#common-activation-errors)
 - [How to activate Windows Server legally](#how-to-activate-windows-server-legally)
 - [FAQ](#faq)
+- [Related guides](#related-guides)
 - [References](#references)
 
 ---
@@ -203,6 +204,18 @@ Yes. Client Access Licences are required for users or devices that access the se
 
 **Which is better for a home lab: Standard or Datacenter?**
 Standard is enough for most home labs that run one or two Windows Server VMs. Datacenter makes sense if you plan to run many VMs.
+
+---
+
+## Related guides
+
+More free references maintained by [Noxkeys](https://noxkeys.com/):
+
+- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors): Windows activation error codes explained
+- [How to Upgrade Windows 11 Home to Pro](https://github.com/webex9/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
+- [Microsoft Office Activation Errors and Fixes](https://github.com/webex9/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
 
 ---
 
